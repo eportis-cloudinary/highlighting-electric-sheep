@@ -1,0 +1,12 @@
+article.card-box.createdWithGenerativeAI::after {
+  content: '⚡️🐑 Created with generative AI';
+  background: #fffadc;
+  border: 1px solid #ffef98;
+  padding: 0.25em 0.3625em;
+  border-radius: 1ch;
+  position: relative;
+  float: right;
+  top: -1rem;
+  right: 1em;
+  font-size: 0.9em;
+}
